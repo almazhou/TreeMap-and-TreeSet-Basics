@@ -19,6 +19,7 @@
     <file path="/StringComparator.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378110485148" ignored="false" />
     <file path="/StringComparatorTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378109635518" ignored="false" />
     <file path="/PersonComparableTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378129071716" ignored="false" />
+    <file path="/a.dummy" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378225684074" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,10 +117,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultPersonTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DefaultPersonTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DefaultPersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="44" selection-start="634" selection-end="634" vertical-scroll-proportion="0.45112783">
+            <state line="14" column="42" selection-start="519" selection-end="533" vertical-scroll-proportion="-5.3461537">
               <folding />
             </state>
           </provider>
@@ -143,10 +144,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeMapTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TreeMapTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TreeMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="34" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.0">
+            <state line="119" column="48" selection-start="3189" selection-end="3189" vertical-scroll-proportion="0.5235294">
               <folding />
             </state>
           </provider>
@@ -181,7 +182,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/TreeMapTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ComparableExampleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ComparableObjectTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PersonComparator.java" />
@@ -196,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/test/java/PersonComparableTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PersonComparatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DefaultPersonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TreeMapTest.java" />
       </list>
     </option>
   </component>
@@ -206,6 +207,34 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="TreeMap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="TreeMap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.6" />
@@ -300,30 +329,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DefaultPersonTest.should_return">
-    <configuration default="false" name="TreeSetTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="TreeMap" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TreeSetTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TreeMapTest.should_poll_first_entry">
     <configuration default="false" name="PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TreeMap" />
@@ -422,10 +428,55 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="TreeMapTest.should_poll_first_entry" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="TreeMap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeMapTest" />
+      <option name="METHOD_NAME" value="should_poll_first_entry" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -514,19 +565,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TreeSetTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_null_even_if_object_is_comparable" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_null_even_if_object_is_comparable" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TreeMapTest.should_poll_first_entry" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_null_even_if_object_is_comparable" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TreeSetTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TreeMapTest.should_poll_first_entry" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_null_even_if_object_is_comparable" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -545,11 +596,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="790" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -562,7 +614,7 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969433" sideWeight="0.67164177" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67164177" order="0" side_tool="false" content_ui="combo" />
@@ -570,7 +622,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -715,13 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TreeMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="34" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TreeSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="24" selection-start="177" selection-end="188" vertical-scroll-proportion="0.0">
@@ -738,7 +782,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DefaultPersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="44" selection-start="634" selection-end="634" vertical-scroll-proportion="0.45112783">
+        <state line="14" column="42" selection-start="519" selection-end="533" vertical-scroll-proportion="-5.3461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TreeMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="48" selection-start="3189" selection-end="3189" vertical-scroll-proportion="0.5235294">
           <folding />
         </state>
       </provider>

@@ -117,7 +117,7 @@ public class TreeMapTest {
     public void should_poll_first_entry() throws Exception {
         Map.Entry entry = treeMap.pollFirstEntry();
 
-        assertThat((String) entry.getKey(),is("9"));
+        assertThat((String) entry.getKey(),is("0"));
     }
 
     @Test
