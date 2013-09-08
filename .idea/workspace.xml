@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be074eed-48f2-40f1-885c-5141888c8f25" name="Default" comment="" />
+    <list default="true" id="be074eed-48f2-40f1-885c-5141888c8f25" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TreeMap.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TreeMapTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378105303886" ignored="false" />
@@ -20,6 +24,37 @@
     <file path="/StringComparatorTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378109635518" ignored="false" />
     <file path="/PersonComparableTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378129071716" ignored="false" />
     <file path="/a.dummy" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378225684074" ignored="false" />
+    <file path="$USER_HOME$/HotelNewData/src/main/java/HotelSystem.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378271378340" ignored="false" />
+    <file path="/HotelSystem.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378271354794" ignored="false" />
+    <file path="$USER_HOME$/HotelNewData/pom.xml" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378270041294" ignored="false" />
+    <file path="$USER_HOME$/HotelNewData/src/main/java/PriceMap.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378271389572" ignored="false" />
+    <file path="/PriceMap.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378271036235" ignored="false" />
+    <file path="/Dummy.txt" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378367362848" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/test/slow/AbstractOrderflowWebDriverTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/test/slow/userstories/SpeedBoostStory3985And3580And3575Test.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/main/java/com/telstra/onlineshop/connectedhome/service/order/TermsAndConditionsLinks.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/main/java/com/telstra/onlineshop/connectedhome/service/bundle/SQDummyResponseFactory.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/test/slow/userstories/AddingSpeedBoostToMyPurchaseAsAddOnStory3577Test.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/main/java/com/telstra/onlineshop/connectedhome/controller/ProductWrapper.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/framework/Browser.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/main/webapp/res/scripts/connected-home/modemUpdate.js" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/test/slow/NBNExistingBundleCustomerTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/main/resources/dev_mobileshop.properties" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/test/slow/ServiceQualificationModuleTest.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/main/java/com/telstra/onlineshop/connectedhome/controller/CheckoutControllerService.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/test/slow/userstories/GenericPromotionsOrderReviewAndSummaryPagesUpdate1685Test.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/page/CopperExplorePage.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/page/LoginPage.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/main/java/com/telstra/onlineshop/connectedhome/model/bundle/util/DefaultAddOnProductName.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801488" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/findbugs-exclude.xml" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801711" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/src/test/java/com/telstra/functionaltest/framework/WebServer.java" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801711" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/pom.xml" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277801711" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/pom-with-pmd-checkstyle-backup.xml" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277802063" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/checkstyle-configuration.xml" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277802063" ignored="false" />
+    <file path="$USER_HOME$/ConnectedHome/checkstyle-suppressions.xml" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378277802063" ignored="false" />
+    <file path="$USER_HOME$/FinanceProject/src/main/webapp/WEB-INF/pages/hello.jsp" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378289523765" ignored="false" />
+    <file path="/hello.jsp" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378289465775" ignored="false" />
+    <file path="$USER_HOME$/FinanceProject/pom.xml" changelist="be074eed-48f2-40f1-885c-5141888c8f25" time="1378301310065" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +69,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -71,6 +105,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
@@ -93,7 +128,7 @@
       <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="29" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
+            <state line="16" column="21" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,7 +137,7 @@
       <file leaf-file-name="StringComparatorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringComparatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="194" selection-end="214" vertical-scroll-proportion="0.0">
+            <state line="23" column="67" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,7 +146,7 @@
       <file leaf-file-name="StringComparator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StringComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="41" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+            <state line="8" column="39" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,7 +155,7 @@
       <file leaf-file-name="DefaultPersonTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DefaultPersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="42" selection-start="519" selection-end="533" vertical-scroll-proportion="-5.3461537">
+            <state line="17" column="42" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,25 +164,16 @@
       <file leaf-file-name="DefaultPerson.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DefaultPerson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="72" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
+            <state line="11" column="21" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeSetTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TreeSetTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TreeSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="177" selection-end="188" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeMapTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TreeMapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="48" selection-start="3189" selection-end="3189" vertical-scroll-proportion="0.5235294">
+            <state line="48" column="25" selection-start="1192" selection-end="1192" vertical-scroll-proportion="1.4204545">
               <folding />
             </state>
           </provider>
@@ -156,7 +182,7 @@
       <file leaf-file-name="PersonComparator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PersonComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="17" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+            <state line="8" column="42" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -165,7 +191,7 @@
       <file leaf-file-name="PersonComparatorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PersonComparatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="33" selection-start="271" selection-end="291" vertical-scroll-proportion="0.0">
+            <state line="46" column="41" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -177,6 +203,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -240,10 +274,10 @@
     <option name="jreName" value="1.6" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="49" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
-    <option name="height" value="790" />
+    <option name="height" value="496" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -273,28 +307,11 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TreeMap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TreeMap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TreeMap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,8 +329,8 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -329,59 +346,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TreeMapTest.should_poll_first_entry">
-    <configuration default="false" name="PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="TreeMap" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PersonComparableTest" />
-      <option name="METHOD_NAME" value="should_get_comparator_of_comparable_objects_in_treeMap" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PersonComparableTest.should_get_null_even_if_object_is_comparable" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="TreeMap" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PersonComparableTest" />
-      <option name="METHOD_NAME" value="should_get_null_even_if_object_is_comparable" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.StringComparatorTest.should_return_largest_name">
     <configuration default="false" name="PersonComparatorTest.should_get_comparator_of_treeMap" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TreeMap" />
@@ -451,6 +416,52 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="TreeSetTest.should_not_change_key_when_change_the_element" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="TreeMap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeSetTest" />
+      <option name="METHOD_NAME" value="should_not_change_key_when_change_the_element" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StringComparatorTest.should_return_largest_name" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="TreeMap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringComparatorTest" />
+      <option name="METHOD_NAME" value="should_return_largest_name" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -487,19 +498,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -526,6 +524,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -565,19 +576,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_null_even_if_object_is_comparable" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TreeMapTest.should_poll_first_entry" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TreeMapTest.should_poll_first_entry" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TreeSetTest.should_not_change_key_when_change_the_element" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StringComparatorTest.should_return_largest_name" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TreeMapTest.should_poll_first_entry" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_null_even_if_object_is_comparable" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PersonComparableTest.should_get_comparator_of_comparable_objects_in_treeMap" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.StringComparatorTest.should_return_largest_name" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PersonComparatorTest.should_get_comparator_of_treeMap" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TreeSetTest.should_not_change_key_when_change_the_element" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DefaultPersonTest.should_return" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TreeMapTest.should_poll_first_entry" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -595,13 +606,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="790" extended-state="0" />
-    <editor active="false" />
+    <frame x="49" y="22" width="1420" height="496" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -610,18 +620,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32089552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31914893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969433" sideWeight="0.67164177" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34497815" sideWeight="0.83776593" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67164177" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496361" sideWeight="0.87765956" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16223404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -690,13 +701,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TreeMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="144" column="43" selection-start="3968" selection-end="3968" vertical-scroll-proportion="0.0" />
@@ -724,27 +728,6 @@
         <state line="95" column="15" selection-start="3422" selection-end="3422" vertical-scroll-proportion="0.3316062" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="41" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="29" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PersonComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PersonComparableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="33" selection-start="273" selection-end="293" vertical-scroll-proportion="0.0">
@@ -752,44 +735,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PersonComparatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TreeMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="33" selection-start="271" selection-end="291" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StringComparatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="194" selection-end="214" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TreeSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="177" selection-end="188" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DefaultPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="72" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
+        <state line="119" column="48" selection-start="3189" selection-end="3189" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DefaultPersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="42" selection-start="519" selection-end="533" vertical-scroll-proportion="-5.3461537">
+        <state line="17" column="42" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TreeMapTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DefaultPerson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="48" selection-start="3189" selection-end="3189" vertical-scroll-proportion="0.5235294">
+        <state line="11" column="21" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="21" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PersonComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="42" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PersonComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="41" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="39" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/TreeMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="11" selection-start="891" selection-end="891" vertical-scroll-proportion="-2.3585658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StringComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="67" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TreeSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="25" selection-start="1192" selection-end="1192" vertical-scroll-proportion="1.4204545">
           <folding />
         </state>
       </provider>
